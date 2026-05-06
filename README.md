@@ -44,7 +44,7 @@ Installation
 
 Clone the repository:
 
-git clone [<your-repository-link>](https://github.com/Swagatika1982/freeApi-YoutubeListing.git)
+git clone https://github.com/Swagatika1982/freeApi-YoutubeListing
 
 Navigate into the project folder:
 
